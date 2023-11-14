@@ -1,5 +1,5 @@
 # HashTagTextView
-A light weight helper class to enable hashtag Highlighting , click listener and customization 
+A light weight helper class to enable hashtag Highlighting , click listener and customization in TextView and Edittext Android.
 <img src="https://github.com/damylolae/HashTagTextView/blob/main/Screenshot_20231114-024500.jpg"/>
 # Setting Up 
 download the pre-built jar from [Releases](https://github.com/damylolae/HashTagTextView/releases/tag/V1.0) 
