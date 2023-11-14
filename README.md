@@ -28,5 +28,6 @@ hashTagHelper.setHighlightColor(Color.parseColor("#009688")); // highlight text 
 hashTagHelper.highLightText(text); // for refreshing or updating changes
 ```
 # Community
+YOUTUBE: [Channel](https://youtube.com/@Sketchly?si=fedbbGdX-rK8xoj2)<br><br>
 Telegram: [Link](https://t.me/deftclicksapp) <br><br>
 WhatsApp: [Link](https://chat.whatsapp.com/I6nBXEvweugHOGCYuQ2KWU)
