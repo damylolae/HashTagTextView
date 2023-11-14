@@ -1,6 +1,6 @@
 # HashTagTextView
-A light weight helper class to enable hashtagHighlighting , click listener and customization 
-[Screenshot](https://github.com/damylolae/HashTagTextView/blob/main/Screenshot_20231114-024500.jpg)
+A light weight helper class to enable hashtag Highlighting , click listener and customization 
+<img src="https://github.com/damylolae/HashTagTextView/blob/main/Screenshot_20231114-024500.jpg"/>
 # Setting Up 
 download the pre-built jar from [Releases](https://github.com/damylolae/HashTagTextView/releases/tag/V1.0) 
 and add it to your project, that easy :) .
