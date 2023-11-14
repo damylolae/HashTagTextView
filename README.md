@@ -27,3 +27,6 @@ hashTagHelper.setHighlightColor(Color.parseColor("#009688")); // highlight text 
 
 hashTagHelper.highLightText(text); // for refreshing or updating changes
 ```
+# Community
+Telegram: [Link](https://t.me/deftclicksapp)
+WhatsApp: [Link](https://chat.whatsapp.com/I6nBXEvweugHOGCYuQ2KWU)
