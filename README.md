@@ -5,10 +5,10 @@ A light weight helper class to enable hashtagHighlighting , click listener and c
 download the pre-built jar from [Releases](https://github.com/damylolae/HashTagTextView/releases/tag/V1.0) 
 and add it to your project, that easy :) .
 # Code Samples 
-A very basic usage is :
-</>HashTagHelper hashTagHelper = new HashTagHelper(textview1,text); </>
+A very basic usage is : 
+<code>HashTagHelper hashTagHelper = new HashTagHelper(textview1,text); </code>
 
-customizing:
+#### customizing:
 HashTagHelper hashTagHelper = new HashTagHelper(textview1,text); // where textview1 is our TextView and text is our String
 
 hashTagHelper.setUnderLineText(true); //set whether or not to underline hashtag texts, defaults to true
